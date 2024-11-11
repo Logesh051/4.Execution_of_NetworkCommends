@@ -18,13 +18,6 @@ This commands includes
 • General Commands to configure network
 <BR>
 • Privileged Mode commands of a router 
-<BR>
-• Router Processes & Statistics
-<BR>
-• IP Commands
-<BR>
-• Other IP Commands e.g. show ip route etc.
-<BR>
 
 ## Output
 
