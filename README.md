@@ -5,12 +5,7 @@
 <BR>
 In this EXPERIMENT- students have to understand basic networking commands e.g cpdump, netstat, ifconfig, nslookup ,traceroute and also Capture ping and traceroute PDUs using a network protocol analyzer 
 <BR>
-All commands related to Network configuration which includes how to switch to privilege mode
-<BR>
-and normal mode and how to configure router interface and how to save this configuration to
-<BR>
-flash memory or permanent memory.
-<BR>
+All commands related to Network configuration which includes how to switch to privilege mode and normal mode and how to configure router interface and how to save this configuration to flash memory or permanent memory.
 This commands includes
 <BR>
 • Configuring the Router commands
