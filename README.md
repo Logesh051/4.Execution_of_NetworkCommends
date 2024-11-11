@@ -27,6 +27,6 @@ This commands includes
 ![Screenshot 2024-10-19 210643](https://github.com/user-attachments/assets/99653a10-3ff7-41da-a3cd-074fec878fc7)
 ## ARP
 ![Screenshot 2024-10-19 210701](https://github.com/user-attachments/assets/98cd8d15-23a4-42da-93a1-4cb0c3714028)
-![Screenshot 2024-10-19 210813](https://github.com/user-attachments/assets/9563669c-9e93-469d-a129-13ab5cc9b924)
+![Screenshot 2024-11-11 092106](https://github.com/user-attachments/assets/d5cc9b71-c062-4ab2-8489-ca4c6367658d)
 ## Result
 Thus Execution of Network commands Performed 
